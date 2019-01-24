@@ -1,8 +1,7 @@
 {
   "name": "testers",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://bumbalord.github.io/testers",
+  "homepage": "https://BUMBALORD.github.io/testers",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
